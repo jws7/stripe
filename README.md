@@ -1,4 +1,4 @@
-# Simple Stripe PaymentIntent integratio
+# Simple Stripe PaymentIntent integration
 July 2020 jws7@
 
 # Instructions
